@@ -1,91 +1,135 @@
-<div align="center">
+# Hey, I'm Atharva 👋
 
-# Hey there, I'm Atharva 👋
+### Frontend Developer in the making 🚀
 
-### 🎓 Engineering Student · 🌐 Aspiring Full Stack Developer · 🚀 Builder
+I'm a B.Tech Electronics & Computer Science student who enjoys learning by building projects and figuring out how things work.
 
-[![GitHub followers](https://img.shields.io/github/followers/atharva-923?label=Follow&style=social)](https://github.com/atharva-923)
-![Profile views](https://komarev.com/ghpvc/?username=atharva-923&color=blueviolet&style=flat)
+Right now, I'm mainly focused on **Frontend Development** with JavaScript and React. I'm also exploring APIs, backend technologies, and how different parts of a web application work together.
 
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🏗️ Currently pursuing **Engineering** and leveling up as a Full Stack Developer
-- 💻 I love building web apps — from clean UIs to solid backends
-- 🔭 Working with **React, Node.js, JavaScript, HTML & CSS**
-- 🚀 Deploying projects on **Vercel** and **Render**
-- 🧠 Also dabble in **C++** for problem solving
-- 📬 Always open to collaborations and cool ideas!
+I'm still learning, but I enjoy the process of building something, running into problems, and figuring out how to solve them.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 What I Work With
 
-**Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Frontend
+`HTML5` `CSS3` `JavaScript` `React.js` `Responsive Design` `DOM Manipulation`
 
-**Backend & Runtime**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Backend & APIs
+`Node.js` `Express.js` `REST APIs`
 
-**Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Database & Cloud
+`MongoDB` `Firebase`
 
-**Deployment**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+### Tools
+`Git` `GitHub` `VS Code` `Vercel` `GitHub Pages`
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| 🎵 [**TuneFlow**](https://github.com/atharva-923/TuneFlow) | A music-focused web app with smooth UI and interactive features |
-| 🛡️ [**ShieldSense**](https://github.com/atharva-923/ShieldSense) | A security/smart sensing web application |
-| 👁️ [**Aegis-Vision**](https://github.com/atharva-923/Aegis-Vision) | Vision-based intelligent web application |
-| 📜 [**JavaScript**](https://github.com/atharva-923/JavaScript) | Collection of JavaScript practice, experiments & mini-projects |
-| 🤔 [**FAQ-Portal**](https://github.com/atharva-923/FAQ-Portal) | A clean, user-friendly FAQ portal web app |
-| 💼 [**job-portal**](https://github.com/atharva-923/job-portal) | A job listing & portal platform built with modern web tech |
+### 🎵 TuneFlow
+
+A browser-based music player built while learning JavaScript and working with APIs.
+
+**What I worked on:**
+- Dynamic music search
+- Jamendo REST API integration
+- Asynchronous JavaScript
+- DOM manipulation
+- Playback controls
+- Responsive UI
+
+[View Repository →](https://github.com/atharva-923/TuneFlow)
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Job Portal
 
-<div align="center">
+A full-stack job portal where I got to work with both frontend and backend technologies.
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-923&show_icons=true&theme=tokyonight&hide_border=true)
+**What I worked on:**
+- Job Seeker & Recruiter roles
+- Authentication and authorization
+- REST API integration
+- MongoDB Atlas
+- Frontend deployment with Vercel
+- Backend deployment with Render
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-923&layout=compact&theme=tokyonight&hide_border=true)
+[View Repository →](https://github.com/atharva-923/job-portal)
 
-</div>
+---
+
+### 🪖 ShieldSense
+
+An IoT-based smart safety helmet with a web dashboard for monitoring sensor data.
+
+**What I worked on:**
+- Real-time sensor data display
+- Firebase integration
+- Alert logging
+- Interactive dashboard
+- Dark/light mode
+- GitHub Pages deployment
+
+[View Repository →](https://github.com/atharva-923/ShieldSense)
+
+---
+
+### 👓 Aegis Vision
+
+A smart-glasses project focused on obstacle detection and audio feedback for visually impaired users.
+
+This project gave me experience with **embedded systems, sensors, and hardware-software interaction**.
+
+[View Repository →](https://github.com/aegis-vision-team/Aegis-Vision)
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔧 Advanced **React** patterns and state management
-- 🗄️ Backend development with **Node.js + Express**
-- 🗃️ Databases — SQL & NoSQL
-- 🐳 Exploring **DevOps** basics (Docker, CI/CD)
+I'm currently working on improving my **Frontend Development** skills through hands-on projects.
+
+My current learning path:
+
+**JavaScript → React → APIs → Better UI → Full-Stack Development**
+
+I'm especially working on:
+
+- Building cleaner and more responsive interfaces
+- Getting better with JavaScript
+- Learning React through projects
+- Understanding how frontend applications communicate with APIs
+- Improving my Git and GitHub workflow
+
+## 🎯 My Goal
+
+> **Build. Learn. Improve. Repeat.**
+
+I'm looking to gain real-world experience as a **Frontend Developer Intern**, work on practical projects, and continue growing my development skills.
+
+I'm still learning, and that's exactly what I enjoy about development — there's always something new to build and understand.
 
 ---
 
-## 📫 Let's Connect!
+## 🏆 Achievements
 
-If you like what I build or want to collaborate on something awesome — feel free to reach out!
-
-[![GitHub](https://img.shields.io/badge/GitHub-atharva--923-181717?style=for-the-badge&logo=github)](https://github.com/atharva-923)
+- 🥇 Ranked **6th nationally** at IIT Bombay Techfest's Maze Solver Robotics Competition
+- 🤖 Participated in the University of Mumbai Robotics Techno-Connect Competition
+- 💡 Contributed to a software solution at **Smart India Hackathon (SIH)**
 
 ---
 
-<div align="center">
+## 📫 Let's Connect
 
-*"First, solve the problem. Then, write the code."* 🧩
+**GitHub:** [atharva-923](https://github.com/atharva-923)
 
-</div>
+**LinkedIn:** [Atharva Patil](https://www.linkedin.com/in/atharvapatil923/)
+
+**Email:** [atharvaap9@gmail.com](mailto:atharvaap9@gmail.com)
+
+---
+
+### ✨ Thanks for visiting!
+
+> Still learning. Still building. Still improving. 🚀
