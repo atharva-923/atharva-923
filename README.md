@@ -113,8 +113,8 @@ Smart-glasses project for obstacle detection and audio feedback for visually imp
 
 <div align="center">
 
-<img src="https://github-readme-stats-eta-orpin.vercel.app/api?username=atharva-923&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats-eta-orpin.vercel.app/api/top-langs/?username=atharva-923&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=atharva-923&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=atharva-923&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-923&theme=tokyonight&hide_border=true" width="60%"/>
 
