@@ -148,9 +148,15 @@ JavaScript → React → APIs → Full-Stack Development
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-patil-345546371/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva-923)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvaap9@gmail.com)
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+<sub>Still learning. Still building. Still improving.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=90&section=footer" width="100%"/>
 
 </div>
