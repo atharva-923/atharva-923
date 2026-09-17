@@ -50,21 +50,60 @@ B.Tech Electronics & Computer Science student who learns by building — and by 
 
 ### Projects
 
+<table>
+<tr>
+<td width="50%">
+
 **TuneFlow**
+
 Browser-based music player with Jamendo REST API integration, async JS, and playback controls.
-[Repository →](https://github.com/atharva-923/TuneFlow)
+
+![Repo size](https://img.shields.io/github/languages/top/atharva-923/TuneFlow?style=flat-square&color=1BFFFF)
+![Stars](https://img.shields.io/github/stars/atharva-923/TuneFlow?style=flat-square&color=2E3192)
+
+[View Repository →](https://github.com/atharva-923/TuneFlow)
+
+</td>
+<td width="50%">
 
 **Job Portal**
+
 Full-stack job portal with Seeker/Recruiter roles, auth, MongoDB Atlas, and split Vercel/Render deployment.
-[Repository →](https://github.com/atharva-923/job-portal)
+
+![Repo size](https://img.shields.io/github/languages/top/atharva-923/job-portal?style=flat-square&color=1BFFFF)
+![Stars](https://img.shields.io/github/stars/atharva-923/job-portal?style=flat-square&color=2E3192)
+
+[View Repository →](https://github.com/atharva-923/job-portal)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 **ShieldSense**
+
 IoT-based smart safety helmet with a real-time web dashboard, Firebase integration, and alert logging.
-[Repository →](https://github.com/atharva-923/ShieldSense)
+
+![Repo size](https://img.shields.io/github/languages/top/atharva-923/ShieldSense?style=flat-square&color=1BFFFF)
+![Stars](https://img.shields.io/github/stars/atharva-923/ShieldSense?style=flat-square&color=2E3192)
+
+[View Repository →](https://github.com/atharva-923/ShieldSense)
+
+</td>
+<td width="50%">
 
 **Aegis Vision**
+
 Smart-glasses project for obstacle detection and audio feedback for visually impaired users — embedded systems, sensors, and hardware-software interaction.
-[Repository →](https://github.com/aegis-vision-team/Aegis-Vision)
+
+![Repo size](https://img.shields.io/github/languages/top/aegis-vision-team/Aegis-Vision?style=flat-square&color=1BFFFF)
+![Stars](https://img.shields.io/github/stars/aegis-vision-team/Aegis-Vision?style=flat-square&color=2E3192)
+
+[View Repository →](https://github.com/aegis-vision-team/Aegis-Vision)
+
+</td>
+</tr>
+</table>
 
 [View all repositories →](https://github.com/atharva-923?tab=repositories)
 
@@ -74,8 +113,8 @@ Smart-glasses project for obstacle detection and audio feedback for visually imp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atharva-923&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-923&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats-eta-orpin.vercel.app/api?username=atharva-923&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats-eta-orpin.vercel.app/api/top-langs/?username=atharva-923&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-923&theme=tokyonight&hide_border=true" width="60%"/>
 
