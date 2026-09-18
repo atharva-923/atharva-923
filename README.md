@@ -118,6 +118,13 @@ Smart-glasses project for obstacle detection and audio feedback for visually imp
 
 </div>
 
+---
+
+### Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/atharva-923/atharva-923/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 
 ---
 
