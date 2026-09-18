@@ -121,16 +121,6 @@ Smart-glasses project for obstacle detection and audio feedback for visually imp
 
 ---
 
-### Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/atharva-923/atharva-923/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-<sub>This animated snake needs a one-time GitHub Actions workflow to generate — see note below.</sub>
-
----
-
 ### Currently Learning
 
 JavaScript → React → APIs → Full-Stack Development
